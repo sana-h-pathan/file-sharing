@@ -159,7 +159,7 @@ A file tree of the project is:
 
 ## Testcases
 
-I tried to take care of all the corner case that might happened for a distributed system, but some issues might persisted; if so, welcome to bring up an issue under [here](https://github.com/ha0min/filesharing/issues).
+I tried to take care of all the corner case that might happened for a distributed system, but some issues might persisted; if so, welcome to bring up an issue under [here](https://github.com/sana-h-pathan/file-sharing/issues).
 
 #### Super Node
 
